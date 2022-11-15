@@ -11,3 +11,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 -[data_analyst_projects](#data_analyst_projects)
  + [Analyze International Debt Statistics](#Analyze-International-Debt-Statistics)
+ 
+## #data_analyst_projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### #Analyze-International-Debt-Statistics
+**Code:** [`notebook.ipynb`]
