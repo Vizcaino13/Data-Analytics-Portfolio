@@ -8,8 +8,8 @@ This section is about me.
 <br>
 
 ## Table of contents
-- [About](#about)
--[data_analyst_projects](#data_analyst_projects)
+- [About](#about) 
+- [data_analyst_projects](#data_analyst_projects)
  + [Analyze International Debt Statistics](#Analyze-International-Debt-Statistics)
  
 ## #data_analyst_projects
