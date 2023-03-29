@@ -13,4 +13,7 @@
 
 - [Case Study 2 Bellabeat](https://github.com/Vizcaino13/Casestudy2_Bellabeat/blob/main/case-study-2-bellabeat.ipynb)  
 
+- [Therapy Company Case Study ](https://github.com/Vizcaino13/Therapy-Case-Study) 
+
 - [Webscraping British Airways Reviews ](https://github.com/Vizcaino13/Webscraping) 
+
